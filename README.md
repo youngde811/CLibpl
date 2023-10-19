@@ -7,6 +7,10 @@ offers a small Debian package used to provide Swift applications access to the l
 _CLibpl_ exists to conform to the current Swift Package Manager (SPM) requirements for adding C system libraries to
 Swift application code. There's not much here; the only truly relevant file is _module.modulemap_.
 
+## References ##
+
+The [libpl](https://github.com/youngde811/libpl) project.
+
 ## Author ##
 
 [David E. Young](bosshog@passivelogic.com)
